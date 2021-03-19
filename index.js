@@ -77,6 +77,7 @@ all_links = ["https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropo
 			"https://saint-etienne-gbfs.klervi.net/gbfs/en/station_status.json",
 			"https://saint-etienne-gbfs.klervi.net/gbfs/en/station_information.json",
 			"https://www.star.fr/le-velo?pnfstarod_data=bike"]
+			
 jsonld_request('https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json', async function(err, res, data) {
 	let doc = data.data.stations
 	doc.forEach(s => s['@context'] = context)
