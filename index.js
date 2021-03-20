@@ -6,7 +6,7 @@ var fs = require("fs");
 //For velib (live data) no coordinates and no name link api : https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json 
 const context = {
 	"@vocab": "http://schema.org/",
-	"@base": "http://data.org/",
+	"@base": "http://toto.org/",
 	"stationCode": "@id",
 	"station_id": null,
 	"num_bikes_available": null,
@@ -69,7 +69,9 @@ const context3 = {
 	"nom":"name",
 	"nombreemplacementsdisponibles":"availableDocks",
 	"idstation": "@id",
-	"coordonnees": "coordinates" //Don't know how to convert an array coordinates to lat, lon .
+	"coordonnees": {
+		"@list": [ "lat", "lon" ]
+	  }
 }
 
 all_links = ["https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json",
@@ -78,23 +80,24 @@ all_links = ["https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropo
 			"https://saint-etienne-gbfs.klervi.net/gbfs/en/station_information.json",
 			"https://www.star.fr/le-velo?pnfstarod_data=bike"]
 			
-jsonld_request('https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json', async function(err, res, data) {
-	let doc = data.data.stations
-	doc.forEach(s => s['@context'] = context)
-	// jsonld.compact(doc, context)
-	// .then(compacted => 
-	// 	console.log(JSON.stringify(compacted, null, 2))
-	// );
-	
-	const rdf = await jsonld.toRDF(doc, {format: 'application/n-quads'});
-	/*fs.writeFile('output.ttl', rdf, function(err) {
-	if (err) {
-	   return console.error(err);
-	}});*/
-});
+// jsonld_request('https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_status.json', async function(err, res, data) {
+// 	let doc = data.data.stations
+// 	doc.forEach(s => s['@context'] = context)
+// 	// jsonld.compact(doc, context)
+// 	// .then(compacted => 
+// 	// 	console.log(JSON.stringify(compacted, null, 2))
+// 	// );
+// 	
+// 	const rdf = await jsonld.toRDF(doc, {format: 'application/n-quads'});
+// 	/*fs.writeFile('output.ttl', rdf, function(err) {
+// 	if (err) {
+// 	   return console.error(err);
+// 	}});*/
+// });
 
-jsonld_request('https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metropole/station_information.json', async function(err, res, data) {
-	let doc = data.data.stations
+jsonld_request('https://www.star.fr/le-velo?pnfstarod_data=bike', async function(err, res, data) {
+	data = JSON.parse(res.body)
+	let doc = data.records.map(r => r.fields)
 	doc.forEach(s => s['@context'] = context_coord)
 	// jsonld.compact(doc, context)
 	// .then(compacted => 
@@ -102,7 +105,7 @@ jsonld_request('https://velib-metropole-opendata.smoove.pro/opendata/Velib_Metro
 	// );
 	
 	const rdf = await jsonld.toRDF(doc, {format: 'application/n-quads'});
-	fs.writeFile('output.ttl', rdf, function(err) {
+	fs.writeFile('output3.ttl', rdf, function(err) {
 	if (err) {
 	   return console.error(err);
 	}});

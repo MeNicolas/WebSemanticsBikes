@@ -1,0 +1,486 @@
+_:b0 <http://schema.org/coordonnees> "-1.688466E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b0 <http://schema.org/coordonnees> "4.811817E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b0 <http://schema.org/etat> "En fonctionnement" .
+_:b0 <http://schema.org/idstation> "5533" .
+_:b0 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b0 <http://schema.org/nom> "Anatole France" .
+_:b0 <http://schema.org/nombreemplacementsactuels> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b0 <http://schema.org/nombrevelosdisponibles> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b1 <http://schema.org/coordonnees> "-1.676161E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b1 <http://schema.org/coordonnees> "4.8129949E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b1 <http://schema.org/etat> "En fonctionnement" .
+_:b1 <http://schema.org/idstation> "5586" .
+_:b1 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b1 <http://schema.org/nom> "Armorique" .
+_:b1 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b1 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b1 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b10 <http://schema.org/coordonnees> "-1.682284E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b10 <http://schema.org/coordonnees> "4.8091114E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b10 <http://schema.org/etat> "En fonctionnement" .
+_:b10 <http://schema.org/idstation> "5569" .
+_:b10 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b10 <http://schema.org/nom> "Champs Manceaux" .
+_:b10 <http://schema.org/nombreemplacementsactuels> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b10 <http://schema.org/nombreemplacementsdisponibles> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b10 <http://schema.org/nombrevelosdisponibles> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b11 <http://schema.org/coordonnees> "-1.677119E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b11 <http://schema.org/coordonnees> "4.8105111E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b11 <http://schema.org/etat> "En fonctionnement" .
+_:b11 <http://schema.org/idstation> "5517" .
+_:b11 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b11 <http://schema.org/nom> "Charles de Gaulle" .
+_:b11 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b11 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b11 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b12 <http://schema.org/coordonnees> "-1.693432E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b12 <http://schema.org/coordonnees> "4.8108765E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b12 <http://schema.org/etat> "En fonctionnement" .
+_:b12 <http://schema.org/idstation> "5528" .
+_:b12 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b12 <http://schema.org/nom> "Chèques Postaux" .
+_:b12 <http://schema.org/nombreemplacementsactuels> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b12 <http://schema.org/nombreemplacementsdisponibles> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b12 <http://schema.org/nombrevelosdisponibles> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b13 <http://schema.org/coordonnees> "-1.68411E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b13 <http://schema.org/coordonnees> "4.8104771E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b13 <http://schema.org/etat> "En fonctionnement" .
+_:b13 <http://schema.org/idstation> "5543" .
+_:b13 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b13 <http://schema.org/nom> "Cité Judiciaire" .
+_:b13 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b13 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b13 <http://schema.org/nombrevelosdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b14 <http://schema.org/coordonnees> "-1.674116E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b14 <http://schema.org/coordonnees> "4.8093292E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b14 <http://schema.org/etat> "En fonctionnement" .
+_:b14 <http://schema.org/idstation> "5562" .
+_:b14 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b14 <http://schema.org/nom> "Clemenceau" .
+_:b14 <http://schema.org/nombreemplacementsactuels> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b14 <http://schema.org/nombreemplacementsdisponibles> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b14 <http://schema.org/nombrevelosdisponibles> "3"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b15 <http://schema.org/coordonnees> "-1.698129E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b15 <http://schema.org/coordonnees> "4.8128788E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b15 <http://schema.org/etat> "En fonctionnement" .
+_:b15 <http://schema.org/idstation> "5560" .
+_:b15 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b15 <http://schema.org/nom> "Cucillé" .
+_:b15 <http://schema.org/nombreemplacementsactuels> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b15 <http://schema.org/nombreemplacementsdisponibles> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b15 <http://schema.org/nombrevelosdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b16 <http://schema.org/coordonnees> "-1.670735E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b16 <http://schema.org/coordonnees> "4.8118172E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b16 <http://schema.org/etat> "En fonctionnement" .
+_:b16 <http://schema.org/idstation> "5507" .
+_:b16 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b16 <http://schema.org/nom> "Fac de Droit" .
+_:b16 <http://schema.org/nombreemplacementsactuels> "31"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b16 <http://schema.org/nombreemplacementsdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b16 <http://schema.org/nombrevelosdisponibles> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b17 <http://schema.org/coordonnees> "-1.673959E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b17 <http://schema.org/coordonnees> "4.8102055E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b17 <http://schema.org/etat> "En fonctionnement" .
+_:b17 <http://schema.org/idstation> "5588" .
+_:b17 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b17 <http://schema.org/nom> "Gare Sud" .
+_:b17 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b17 <http://schema.org/nombreemplacementsdisponibles> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b17 <http://schema.org/nombrevelosdisponibles> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b18 <http://schema.org/coordonnees> "-1.671005E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b18 <http://schema.org/coordonnees> "4.8104162E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b18 <http://schema.org/etat> "En fonctionnement" .
+_:b18 <http://schema.org/idstation> "5515" .
+_:b18 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b18 <http://schema.org/nom> "Gares - Solférino" .
+_:b18 <http://schema.org/nombreemplacementsactuels> "35"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b18 <http://schema.org/nombreemplacementsdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b18 <http://schema.org/nombrevelosdisponibles> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b19 <http://schema.org/coordonnees> "-1.665101E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b19 <http://schema.org/coordonnees> "4.8126795E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b19 <http://schema.org/etat> "En panne" .
+_:b19 <http://schema.org/idstation> "5578" .
+_:b19 <http://schema.org/lastupdate> "2021-02-02T12:19:05+00:00" .
+_:b19 <http://schema.org/nom> "Gros-Chêne" .
+_:b19 <http://schema.org/nombreemplacementsactuels> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b19 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b19 <http://schema.org/nombrevelosdisponibles> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b2 <http://schema.org/coordonnees> "-1.681876E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b2 <http://schema.org/coordonnees> "4.8120876E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b2 <http://schema.org/etat> "En fonctionnement" .
+_:b2 <http://schema.org/idstation> "5537" .
+_:b2 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b2 <http://schema.org/nom> "Auberge de Jeunesse" .
+_:b2 <http://schema.org/nombreemplacementsactuels> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b2 <http://schema.org/nombreemplacementsdisponibles> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b2 <http://schema.org/nombrevelosdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b20 <http://schema.org/coordonnees> "-1.689656E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b20 <http://schema.org/coordonnees> "4.8111564E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b20 <http://schema.org/etat> "En fonctionnement" .
+_:b20 <http://schema.org/idstation> "5527" .
+_:b20 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b20 <http://schema.org/nom> "Horizons" .
+_:b20 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b20 <http://schema.org/nombreemplacementsdisponibles> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b20 <http://schema.org/nombrevelosdisponibles> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b21 <http://schema.org/coordonnees> "-1.677849E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b21 <http://schema.org/coordonnees> "4.8117596E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b21 <http://schema.org/etat> "En fonctionnement" .
+_:b21 <http://schema.org/idstation> "5506" .
+_:b21 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b21 <http://schema.org/nom> "Hôtel Dieu" .
+_:b21 <http://schema.org/nombreemplacementsactuels> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b21 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b21 <http://schema.org/nombrevelosdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b22 <http://schema.org/coordonnees> "-1.674834E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b22 <http://schema.org/coordonnees> "4.8097505E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b22 <http://schema.org/etat> "En fonctionnement" .
+_:b22 <http://schema.org/idstation> "5561" .
+_:b22 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b22 <http://schema.org/nom> "Jacques Cartier" .
+_:b22 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b22 <http://schema.org/nombreemplacementsdisponibles> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b22 <http://schema.org/nombrevelosdisponibles> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b23 <http://schema.org/coordonnees> "-1.651203E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b23 <http://schema.org/coordonnees> "4.8124389E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b23 <http://schema.org/etat> "En fonctionnement" .
+_:b23 <http://schema.org/idstation> "5581" .
+_:b23 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b23 <http://schema.org/nom> "Joliot-Curie - Chateaubriand" .
+_:b23 <http://schema.org/nombreemplacementsactuels> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b23 <http://schema.org/nombreemplacementsdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b23 <http://schema.org/nombrevelosdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b24 <http://schema.org/coordonnees> "-1.694512E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b24 <http://schema.org/coordonnees> "4.8099043E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b24 <http://schema.org/etat> "En fonctionnement" .
+_:b24 <http://schema.org/idstation> "5585" .
+_:b24 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b24 <http://schema.org/nom> "La Courrouze" .
+_:b24 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b24 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b24 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b25 <http://schema.org/coordonnees> "-1.644121E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b25 <http://schema.org/coordonnees> "4.8087282E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b25 <http://schema.org/etat> "En panne" .
+_:b25 <http://schema.org/idstation> "5582" .
+_:b25 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b25 <http://schema.org/nom> "La Poterie" .
+_:b25 <http://schema.org/nombreemplacementsactuels> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b25 <http://schema.org/nombreemplacementsdisponibles> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b25 <http://schema.org/nombrevelosdisponibles> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b26 <http://schema.org/coordonnees> "-1.68677E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b26 <http://schema.org/coordonnees> "4.8106653E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b26 <http://schema.org/etat> "En fonctionnement" .
+_:b26 <http://schema.org/idstation> "5523" .
+_:b26 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b26 <http://schema.org/nom> "La Rotonde" .
+_:b26 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b26 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b26 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b27 <http://schema.org/coordonnees> "-1.665814E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b27 <http://schema.org/coordonnees> "4.8106846E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b27 <http://schema.org/etat> "En fonctionnement" .
+_:b27 <http://schema.org/idstation> "5514" .
+_:b27 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b27 <http://schema.org/nom> "Laënnec" .
+_:b27 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b27 <http://schema.org/nombreemplacementsdisponibles> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b27 <http://schema.org/nombrevelosdisponibles> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b28 <http://schema.org/coordonnees> "-1.685037E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b28 <http://schema.org/coordonnees> "4.8112766E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b28 <http://schema.org/etat> "En fonctionnement" .
+_:b28 <http://schema.org/idstation> "5526" .
+_:b28 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b28 <http://schema.org/nom> "Les Lices" .
+_:b28 <http://schema.org/nombreemplacementsactuels> "25"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b28 <http://schema.org/nombreemplacementsdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b28 <http://schema.org/nombrevelosdisponibles> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b29 <http://schema.org/coordonnees> "-1.693069E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b29 <http://schema.org/coordonnees> "4.8105086E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b29 <http://schema.org/etat> "En panne" .
+_:b29 <http://schema.org/idstation> "5591" .
+_:b29 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b29 <http://schema.org/nom> "Mabilais" .
+_:b29 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b29 <http://schema.org/nombreemplacementsdisponibles> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b29 <http://schema.org/nombrevelosdisponibles> "0"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b3 <http://schema.org/coordonnees> "-1.647933E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b3 <http://schema.org/coordonnees> "4.810995E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b3 <http://schema.org/etat> "En fonctionnement" .
+_:b3 <http://schema.org/idstation> "5589" .
+_:b3 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b3 <http://schema.org/nom> "Baud Chardonnet" .
+_:b3 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b3 <http://schema.org/nombreemplacementsdisponibles> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b3 <http://schema.org/nombrevelosdisponibles> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b30 <http://schema.org/coordonnees> "-1.678757E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b30 <http://schema.org/coordonnees> "4.8111624E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b30 <http://schema.org/etat> "En fonctionnement" .
+_:b30 <http://schema.org/idstation> "5502" .
+_:b30 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b30 <http://schema.org/nom> "Mairie" .
+_:b30 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b30 <http://schema.org/nombreemplacementsdisponibles> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b30 <http://schema.org/nombrevelosdisponibles> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b31 <http://schema.org/coordonnees> "-1.702077E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b31 <http://schema.org/coordonnees> "4.8111749E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b31 <http://schema.org/etat> "En fonctionnement" .
+_:b31 <http://schema.org/idstation> "5538" .
+_:b31 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b31 <http://schema.org/nom> "Marbeuf" .
+_:b31 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b31 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b31 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b32 <http://schema.org/coordonnees> "-1.658258E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b32 <http://schema.org/coordonnees> "4.8115993E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b32 <http://schema.org/etat> "En fonctionnement" .
+_:b32 <http://schema.org/idstation> "5544" .
+_:b32 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b32 <http://schema.org/nom> "Metz - Sévigné" .
+_:b32 <http://schema.org/nombreemplacementsactuels> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b32 <http://schema.org/nombreemplacementsdisponibles> "4"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b32 <http://schema.org/nombrevelosdisponibles> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b33 <http://schema.org/coordonnees> "-1.67408E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b33 <http://schema.org/coordonnees> "4.8109601E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b33 <http://schema.org/etat> "En fonctionnement" .
+_:b33 <http://schema.org/idstation> "5510" .
+_:b33 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b33 <http://schema.org/nom> "Musée Beaux-Arts" .
+_:b33 <http://schema.org/nombreemplacementsactuels> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b33 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b33 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b34 <http://schema.org/coordonnees> "-1.661853E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b34 <http://schema.org/coordonnees> "4.811355E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b34 <http://schema.org/etat> "En fonctionnement" .
+_:b34 <http://schema.org/idstation> "5522" .
+_:b34 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b34 <http://schema.org/nom> "Oberthur" .
+_:b34 <http://schema.org/nombreemplacementsactuels> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b34 <http://schema.org/nombreemplacementsdisponibles> "19"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b34 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b35 <http://schema.org/coordonnees> "-1.659762E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b35 <http://schema.org/coordonnees> "4.8123506E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b35 <http://schema.org/etat> "En fonctionnement" .
+_:b35 <http://schema.org/idstation> "5580" .
+_:b35 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b35 <http://schema.org/nom> "Painlevé" .
+_:b35 <http://schema.org/nombreemplacementsactuels> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b35 <http://schema.org/nombreemplacementsdisponibles> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b35 <http://schema.org/nombrevelosdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b36 <http://schema.org/coordonnees> "-1.670039E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b36 <http://schema.org/coordonnees> "4.8110115E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b36 <http://schema.org/etat> "En fonctionnement" .
+_:b36 <http://schema.org/idstation> "5536" .
+_:b36 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b36 <http://schema.org/nom> "Paul Bert" .
+_:b36 <http://schema.org/nombreemplacementsactuels> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b36 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b36 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b37 <http://schema.org/coordonnees> "-1.66209E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b37 <http://schema.org/coordonnees> "4.810305E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b37 <http://schema.org/etat> "En fonctionnement" .
+_:b37 <http://schema.org/idstation> "5540" .
+_:b37 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b37 <http://schema.org/nom> "Pierre Martin" .
+_:b37 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b37 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b37 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b38 <http://schema.org/coordonnees> "-1.684041E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b38 <http://schema.org/coordonnees> "4.81097E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b38 <http://schema.org/etat> "En fonctionnement" .
+_:b38 <http://schema.org/idstation> "5524" .
+_:b38 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b38 <http://schema.org/nom> "Place de Bretagne" .
+_:b38 <http://schema.org/nombreemplacementsactuels> "39"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b38 <http://schema.org/nombreemplacementsdisponibles> "23"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b38 <http://schema.org/nombrevelosdisponibles> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b39 <http://schema.org/coordonnees> "-1.677073E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b39 <http://schema.org/coordonnees> "4.8115074E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b39 <http://schema.org/etat> "En fonctionnement" .
+_:b39 <http://schema.org/idstation> "5504" .
+_:b39 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b39 <http://schema.org/nom> "Place Hoche" .
+_:b39 <http://schema.org/nombreemplacementsactuels> "39"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b39 <http://schema.org/nombreemplacementsdisponibles> "32"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b39 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b4 <http://schema.org/coordonnees> "-1.633875E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b4 <http://schema.org/coordonnees> "4.8116458E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b4 <http://schema.org/etat> "En fonctionnement" .
+_:b4 <http://schema.org/idstation> "5547" .
+_:b4 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b4 <http://schema.org/nom> "Beaulieu Chimie" .
+_:b4 <http://schema.org/nombreemplacementsactuels> "30"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b4 <http://schema.org/nombreemplacementsdisponibles> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b4 <http://schema.org/nombrevelosdisponibles> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b40 <http://schema.org/coordonnees> "-1.643674E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b40 <http://schema.org/coordonnees> "4.8112461E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b40 <http://schema.org/etat> "En fonctionnement" .
+_:b40 <http://schema.org/idstation> "5546" .
+_:b40 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b40 <http://schema.org/nom> "Plaine de Baud" .
+_:b40 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b40 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b40 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b41 <http://schema.org/coordonnees> "-1.680594E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b41 <http://schema.org/coordonnees> "4.8106103E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b41 <http://schema.org/etat> "En fonctionnement" .
+_:b41 <http://schema.org/idstation> "5519" .
+_:b41 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b41 <http://schema.org/nom> "Plélo Colombier" .
+_:b41 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b41 <http://schema.org/nombreemplacementsdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b41 <http://schema.org/nombrevelosdisponibles> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b42 <http://schema.org/coordonnees> "-1.664443E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b42 <http://schema.org/coordonnees> "4.8110264E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b42 <http://schema.org/etat> "En fonctionnement" .
+_:b42 <http://schema.org/idstation> "5535" .
+_:b42 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b42 <http://schema.org/nom> "Pont de Châteaudun" .
+_:b42 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b42 <http://schema.org/nombreemplacementsdisponibles> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b42 <http://schema.org/nombrevelosdisponibles> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b43 <http://schema.org/coordonnees> "-1.684015E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b43 <http://schema.org/coordonnees> "4.8102015E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b43 <http://schema.org/etat> "En fonctionnement" .
+_:b43 <http://schema.org/idstation> "5520" .
+_:b43 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b43 <http://schema.org/nom> "Pont de Nantes" .
+_:b43 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b43 <http://schema.org/nombreemplacementsdisponibles> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b43 <http://schema.org/nombrevelosdisponibles> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b44 <http://schema.org/coordonnees> "-1.656028E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b44 <http://schema.org/coordonnees> "4.8109859E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b44 <http://schema.org/etat> "En fonctionnement" .
+_:b44 <http://schema.org/idstation> "5587" .
+_:b44 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b44 <http://schema.org/nom> "Pont de Strasbourg" .
+_:b44 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b44 <http://schema.org/nombreemplacementsdisponibles> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b44 <http://schema.org/nombrevelosdisponibles> "8"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b45 <http://schema.org/coordonnees> "-1.692737E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b45 <http://schema.org/coordonnees> "4.8121481E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b45 <http://schema.org/etat> "En fonctionnement" .
+_:b45 <http://schema.org/idstation> "5539" .
+_:b45 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b45 <http://schema.org/nom> "Pontchaillou Métro" .
+_:b45 <http://schema.org/nombreemplacementsactuels> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b45 <http://schema.org/nombreemplacementsdisponibles> "21"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b45 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b46 <http://schema.org/coordonnees> "-1.694032E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b46 <http://schema.org/coordonnees> "4.8128453E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b46 <http://schema.org/etat> "En fonctionnement" .
+_:b46 <http://schema.org/idstation> "5555" .
+_:b46 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b46 <http://schema.org/nom> "Préfecture" .
+_:b46 <http://schema.org/nombreemplacementsactuels> "27"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b46 <http://schema.org/nombreemplacementsdisponibles> "22"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b46 <http://schema.org/nombrevelosdisponibles> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b47 <http://schema.org/coordonnees> "-1.678037E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b47 <http://schema.org/coordonnees> "4.8110026E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b47 <http://schema.org/etat> "En fonctionnement" .
+_:b47 <http://schema.org/idstation> "5501" .
+_:b47 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b47 <http://schema.org/nom> "République" .
+_:b47 <http://schema.org/nombreemplacementsactuels> "45"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b47 <http://schema.org/nombreemplacementsdisponibles> "29"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b47 <http://schema.org/nombrevelosdisponibles> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b48 <http://schema.org/coordonnees> "-1.659499E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b48 <http://schema.org/coordonnees> "4.8109926E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b48 <http://schema.org/etat> "En fonctionnement" .
+_:b48 <http://schema.org/idstation> "5542" .
+_:b48 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b48 <http://schema.org/nom> "Robidou" .
+_:b48 <http://schema.org/nombreemplacementsactuels> "20"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b48 <http://schema.org/nombreemplacementsdisponibles> "9"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b48 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b49 <http://schema.org/coordonnees> "-1.674417E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b49 <http://schema.org/coordonnees> "4.8112385E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b49 <http://schema.org/etat> "En fonctionnement" .
+_:b49 <http://schema.org/idstation> "5509" .
+_:b49 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b49 <http://schema.org/nom> "Saint-Georges" .
+_:b49 <http://schema.org/nombreemplacementsactuels> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b49 <http://schema.org/nombreemplacementsdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b49 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b5 <http://schema.org/coordonnees> "-1.638368E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b5 <http://schema.org/coordonnees> "4.8122048E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b5 <http://schema.org/etat> "En fonctionnement" .
+_:b5 <http://schema.org/idstation> "5548" .
+_:b5 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b5 <http://schema.org/nom> "Beaulieu Restau U" .
+_:b5 <http://schema.org/nombreemplacementsactuels> "18"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b5 <http://schema.org/nombreemplacementsdisponibles> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b5 <http://schema.org/nombrevelosdisponibles> "1"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b50 <http://schema.org/coordonnees> "-1.680461E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b50 <http://schema.org/coordonnees> "4.811421E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b50 <http://schema.org/etat> "En fonctionnement" .
+_:b50 <http://schema.org/idstation> "5505" .
+_:b50 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b50 <http://schema.org/nom> "Sainte-Anne" .
+_:b50 <http://schema.org/nombreemplacementsactuels> "23"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b50 <http://schema.org/nombreemplacementsdisponibles> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b50 <http://schema.org/nombrevelosdisponibles> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b51 <http://schema.org/coordonnees> "-1.663731E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b51 <http://schema.org/coordonnees> "4.8094986E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b51 <http://schema.org/etat> "En fonctionnement" .
+_:b51 <http://schema.org/idstation> "5571" .
+_:b51 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b51 <http://schema.org/nom> "Sainte-Thérèse" .
+_:b51 <http://schema.org/nombreemplacementsactuels> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b51 <http://schema.org/nombreemplacementsdisponibles> "5"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b51 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b52 <http://schema.org/coordonnees> "-1.673711E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b52 <http://schema.org/coordonnees> "4.8107748E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b52 <http://schema.org/etat> "En fonctionnement" .
+_:b52 <http://schema.org/idstation> "5512" .
+_:b52 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b52 <http://schema.org/nom> "TNB" .
+_:b52 <http://schema.org/nombreemplacementsactuels> "28"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b52 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b52 <http://schema.org/nombrevelosdisponibles> "15"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b53 <http://schema.org/coordonnees> "-1.70428E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b53 <http://schema.org/coordonnees> "4.8121074E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b53 <http://schema.org/etat> "En fonctionnement" .
+_:b53 <http://schema.org/idstation> "5552" .
+_:b53 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b53 <http://schema.org/nom> "Villejean-Université" .
+_:b53 <http://schema.org/nombreemplacementsactuels> "26"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b53 <http://schema.org/nombreemplacementsdisponibles> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b53 <http://schema.org/nombrevelosdisponibles> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b6 <http://schema.org/coordonnees> "-1.705097E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b6 <http://schema.org/coordonnees> "4.8116314E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b6 <http://schema.org/etat> "En fonctionnement" .
+_:b6 <http://schema.org/idstation> "5556" .
+_:b6 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b6 <http://schema.org/nom> "Berger" .
+_:b6 <http://schema.org/nombreemplacementsactuels> "14"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b6 <http://schema.org/nombreemplacementsdisponibles> "2"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b6 <http://schema.org/nombrevelosdisponibles> "12"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b7 <http://schema.org/coordonnees> "-1.667321E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b7 <http://schema.org/coordonnees> "4.8091594E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b7 <http://schema.org/etat> "En fonctionnement" .
+_:b7 <http://schema.org/idstation> "5567" .
+_:b7 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b7 <http://schema.org/nom> "Binquenais" .
+_:b7 <http://schema.org/nombreemplacementsactuels> "16"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b7 <http://schema.org/nombreemplacementsdisponibles> "6"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b7 <http://schema.org/nombrevelosdisponibles> "10"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b8 <http://schema.org/coordonnees> "-1.693264E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b8 <http://schema.org/coordonnees> "4.8113009E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b8 <http://schema.org/etat> "En fonctionnement" .
+_:b8 <http://schema.org/idstation> "5534" .
+_:b8 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b8 <http://schema.org/nom> "Brest - Verdun" .
+_:b8 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b8 <http://schema.org/nombreemplacementsdisponibles> "17"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b8 <http://schema.org/nombrevelosdisponibles> "7"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b9 <http://schema.org/coordonnees> "-1.674328E0"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b9 <http://schema.org/coordonnees> "4.8105537E1"^^<http://www.w3.org/2001/XMLSchema#double> .
+_:b9 <http://schema.org/etat> "En fonctionnement" .
+_:b9 <http://schema.org/idstation> "5516" .
+_:b9 <http://schema.org/lastupdate> "2021-03-19T18:08:18+00:00" .
+_:b9 <http://schema.org/nom> "Champs Libres" .
+_:b9 <http://schema.org/nombreemplacementsactuels> "24"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b9 <http://schema.org/nombreemplacementsdisponibles> "13"^^<http://www.w3.org/2001/XMLSchema#integer> .
+_:b9 <http://schema.org/nombrevelosdisponibles> "11"^^<http://www.w3.org/2001/XMLSchema#integer> .
