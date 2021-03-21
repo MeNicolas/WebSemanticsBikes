@@ -102,6 +102,29 @@
     
 
 
+    <!-- http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#NormalStation -->
+
+    <owl:Class rdf:about="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#NormalStation">
+        <owl:equivalentClass>
+            <owl:Class>
+                <owl:intersectionOf rdf:parseType="Collection">
+                    <rdf:Description rdf:about="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#Station"/>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#OnlyFreeDocksStation"/>
+                    </owl:Class>
+                    <owl:Class>
+                        <owl:complementOf rdf:resource="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#OnlyFullDocksStation"/>
+                    </owl:Class>
+                </owl:intersectionOf>
+            </owl:Class>
+        </owl:equivalentClass>
+        <rdfs:subClassOf rdf:resource="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#Station"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#OnlyFreeDocksStation"/>
+        <owl:disjointWith rdf:resource="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#OnlyFullDocksStation"/>
+    </owl:Class>
+    
+
+
     <!-- http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#OnlyFreeDocksStation -->
 
     <owl:Class rdf:about="http://www.semanticweb.org/chloedaems/ontologies/2021/2/untitled-ontology-21#OnlyFreeDocksStation">
