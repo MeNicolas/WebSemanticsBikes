@@ -15,7 +15,7 @@ export default ({ context }) => {
 	
 	return (
 		<div className={style.panel}>
-			<Select options={options} defaultValue={context.city} onChange={value => context.setCity(value.value)} /><br/>
+			<Select options={options} defaultValue={options[0]} onChange={value => context.setCity(value.value)} /><br/>
 			<Row>
 				<Col> 
 					<button className={`${style.searchMode} ${context.searchMode == 'bike' ? style.selected : ''}`} onClick={() => context.setSearchMode('bike')}>
