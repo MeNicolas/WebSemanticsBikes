@@ -30,7 +30,7 @@ export default async (req, res) => {
 		}
 	`)
 	
-	if (location) {
+	if (location && location.length == 2) {
 		r.forEach(s => {
 			s.distance = getDistance({latitude: s.lat, longitude: s.long}, {latitude: location[0], longitude: location[1]})
 		})
