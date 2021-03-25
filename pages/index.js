@@ -4,7 +4,7 @@ import useSWR from 'swr'
 import Map from '../components/map'
 import Panel from '../components/panel'
 
-export default () => {
+export default function Index(){
   const citiesViewport = {
     'paris': { latitude: 48.856614, longitude: 2.3522219, zoom: 12 },
     'lyon': { latitude: 45.750000, longitude: 4.850000, zoom: 12 },

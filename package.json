@@ -22,6 +22,8 @@
     "react-google-maps": "^9.4.5",
     "react-map-gl": "^6.1.10",
     "react-select": "^4.3.0",
-    "swr": "^0.5.4"
+    "supercluster": "^7.1.2",
+    "swr": "^0.5.4",
+    "use-supercluster": "^0.2.9"
   }
 }

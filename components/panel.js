@@ -5,7 +5,7 @@ import Select from 'react-select'
 import style from './panel.module.css'
 import { getDistance } from 'geolib';
 
-export default ({ context }) => {
+export default function Panel({ context }) {
 	
 	const options = [
 		{ value: 'paris', label: 'Paris' },
@@ -30,8 +30,8 @@ export default ({ context }) => {
 			</Row>
 			
 			<ul className={style.stationsList}>
-				{context.data && context.data.map(station => <Station context={context} station={station}/>)}
+				{context.data && context.data.map(station => <Station context={context} station={station} key={station.id}/>)}
 			</ul>
 		</div>
 	)
-}
+};

@@ -2,13 +2,17 @@ import React, { useState } from 'react'
 import style from './marker.module.css'
 import ReactMapGL, {Popup, Marker} from 'react-map-gl';
 
-export default ({ station }) => {
+export default function AppMarker({ station }) {
 	
 	const [showPopup, togglePopup] = React.useState(false);
 	
+	React.useEffect(() => {
+		console.log('marker')
+	}, [])
+	
 	return (
 		<>
-			<Marker latitude={station.lat} longitude={station.long}>
+		  <Marker latitude={station.lat} longitude={station.long}>
 				<div className={style.stationMarker} onMouseEnter={() => togglePopup(true)} onMouseLeave={() => togglePopup(false)}></div>
 		  </Marker>
 			

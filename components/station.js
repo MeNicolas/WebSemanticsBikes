@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import style from './panel.module.css'
 
-export default ({ station, context }) => {
+export default function Station({ station, context }) {
 	
 	const onSelect = () => {
 		context.setViewport({
@@ -19,4 +19,4 @@ export default ({ station, context }) => {
 			{station.distance && <span className={style.distance}>{station.distance}m</span>}
 		</li>
 	)
-}
+};
