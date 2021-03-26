@@ -1,10 +1,28 @@
-.stationMarker {
-  width: 15px;
-  height: 15px;
-  border-radius: 7.5px;
-  background-color: color(srgb 0 0.298 1);
-}
-
 .stationTooltip {
   z-index: 9999;
+}
+
+.stationTooltip div:last-child {
+  border-radius: 20px;
+  padding: 15px 20px;
+  max-width: 300px;
+}
+
+@supports ((-webkit-backdrop-filter: blur(20px)) or (backdrop-filter: blur(20px))) {
+  .stationTooltip div {
+  background-color: rgba(255, 255, 255, .7);
+  -webkit-backdrop-filter: blur(8px);
+  backdrop-filter: blur(8px);
+  }
+}
+
+.stationTooltip .stationName {
+  font-weight: bold;
+  font-size: 23px;
+  margin-bottom: 10px;
+  display: block;
+}
+
+.stationTooltip .info {
+  margin-right: 20px; 
 }

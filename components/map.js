@@ -1,5 +1,5 @@
 import React from "react";
-import { useState, useRef } from 'react';
+import { useState, useRef, useEffect } from 'react';
 import ReactMapGL, {GeolocateControl, NavigationControl} from 'react-map-gl';
 import Marker from './marker'
 
@@ -8,29 +8,20 @@ const geolocateControlStyle = { right: 10, top: 10 };
 export default function Map({ context }) {
 
 	const mapRef = useRef();
-	
-	const bounds = mapRef.current
-									? mapRef.current
-											.getMap()
-											.getBounds()
-											.toArray()
-											.flat()
-									: [0,0,0,0];
-									
-	// const { clusters, supercluster } = useSupercluster({
-	// 	points: context.data,
-	// 	bounds,
-	// 	zoom: context.viewport.zoom,
-	// 	options: { radius: 75, maxZoom: 20 }
-	// });
-	
-	let stations = context.data?.filter(s => 
-		s.long >= bounds[0] && s.long <= bounds[2] &&
-		s.lat >= bounds[1] && s.lat <= bounds[3]
-	)
+
+	const [stations, setStations] = useState(null)
 	let stationsHash = stations?.reduce((res, s) => res += s.id, '')
 	
-	const markers = React.useMemo(() => stations?.map(station => <Marker station={station} key={station.id}/>), [stationsHash]);
+	useEffect(() => {
+		const bounds = mapRef.current?.getMap().getBounds().toArray().flat() || [0,0,0,0];
+		
+		setStations(context.data?.filter(s => 
+			s.long >= bounds[0] && s.long <= bounds[2] &&
+			s.lat >= bounds[1] && s.lat <= bounds[3]
+		))
+	}, [context.viewport, context.data])
+	
+	const markers = React.useMemo(() => stations?.map(station => <Marker context={context} station={station} key={station.id}/>), [stationsHash]);
 	
   return (
 		<>
