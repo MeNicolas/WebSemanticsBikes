@@ -15,8 +15,8 @@ export default function AppMarker({ context, station }) {
 	React.useEffect(() => {
 		console.log('marker')
 	}, [])
-	//<div className={style.stationMarker} onMouseEnter={() => togglePopup(true)} onMouseLeave={() => togglePopup(false)}></div>
-	return (
+
+		return (
 		<>
 		  <Marker latitude={station.lat} longitude={station.long}>
 				{context.viewport.zoom <= 13 ?

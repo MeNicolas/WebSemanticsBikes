@@ -11,6 +11,7 @@ export default function Station({ station, context }) {
 			longitude: station.long,
 			zoom: 15
 		})
+		context.setShowPanel(false)
 	}
 	
 	return (

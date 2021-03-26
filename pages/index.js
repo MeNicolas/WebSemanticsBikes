@@ -11,6 +11,7 @@ export default function Index(){
     'stetienne': { latitude: 45.439695, longitude: 4.3871779, zoom: 12 }
   }
     
+  const [showPanel, setShowPanel] = useState(false);
   const [location, setLocation] = useState([]);
   const [city, setCity] = useState('paris');
   const [viewport, setViewport] = useState(citiesViewport[city]);
@@ -31,6 +32,8 @@ export default function Index(){
   
   const context = {
     ...citiesViewport,
+    showPanel,
+    setShowPanel,
     viewport,
     setViewport,
     city,
