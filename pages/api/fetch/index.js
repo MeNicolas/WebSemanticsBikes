@@ -1,6 +1,9 @@
 const fs = require('fs')
 const axios = require('axios')
 const jsonld = require('jsonld')
+const path = require('path');
+
+path.resolve('contexts/');
 
 let fetchWithContext = async (url, contextFile, keyPath = a => a) => {
 	try {

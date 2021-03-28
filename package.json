@@ -15,6 +15,7 @@
     "geolib": "^3.3.1",
     "jsonld": "^5.0.0",
     "next": "10.0.9",
+    "path": "^0.12.7",
     "querystring": "^0.2.1",
     "react": "17.0.1",
     "react-bootstrap": "^1.5.2",
