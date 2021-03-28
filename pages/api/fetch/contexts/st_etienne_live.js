@@ -1,4 +1,4 @@
-{ 
+export default { 
 	"@vocab": "http://velo.fr/",
 	"@base": "http://velo.fr/stetienne/", 
 	"station_id": "@id",

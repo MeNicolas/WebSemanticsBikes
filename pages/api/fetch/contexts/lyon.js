@@ -1,4 +1,4 @@
-{
+export default {
 	"@vocab": "http://velo.fr/",
 	"@base": "http://velo.fr/lyon/", 
 	"number": "@id",
