@@ -5,6 +5,7 @@ const jsonld = require('jsonld')
 let fetchWithContext = async (url, contextFile, keyPath = a => a) => {
 	try {
 		const context = JSON.parse(fs.readFileSync(contextFile, 'utf8'))
+		
 		let res = await axios.get(url)
 		res = keyPath(res)
 		
